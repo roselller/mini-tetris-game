@@ -35,4 +35,4 @@ No image or sound downloads are needed.
 - `main.py`: window, drawing, and keyboard/mouse controls.
 - `test_game.py`: automated checks for the gameplay rules.
 
-Run the checks with `.venv/bin/python -m unittest -v`.
+Run the checks with `-m unittest -v`.
